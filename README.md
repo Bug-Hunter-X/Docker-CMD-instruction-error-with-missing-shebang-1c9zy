@@ -1,0 +1,1 @@
+This repository contains a Dockerfile with a common error and its solution. The error arises from a missing shebang in the Python script executed by the CMD instruction in the Dockerfile. The solution demonstrates the correct way to include the shebang and make the script executable.
